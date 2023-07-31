@@ -18,7 +18,7 @@ else {
     nombre = prompt(`Introducir su Nombre 📝:`);
 }
 alert(`
-        Empecemos❗❗🎫`);
+        Iniciemos... 😊🤍`);
 
 let pelicula = prompt(` Elija desde nuestra cartelera que pelicula desea ver... 🎞🎫
 💎 Barbie
